@@ -16,7 +16,7 @@ final lightTheme = ThemeData(
     brightness: Brightness.light,
   ),
   dividerColor: Colors.black38,
-  highlightColor: Colors.white38,
+  highlightColor: Colors.pinkAccent,
   sliderTheme: SliderThemeData(
     thumbColor: Colors.pink,
     activeTrackColor: Colors.black38,
@@ -43,7 +43,7 @@ final darkTheme = ThemeData(
     brightness: Brightness.dark,
   ),
   dividerColor: Colors.white38,
-  highlightColor: Colors.white38,
+  highlightColor: Colors.pinkAccent,
   sliderTheme: SliderThemeData(
     thumbColor: Colors.pink,
     activeTrackColor: Colors.white38,
